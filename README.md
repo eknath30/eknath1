@@ -23,7 +23,7 @@
 
 ## 💫 About Me
 
-I’m **Eknath phad**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and , and working on real-world problem-solving systems.
+I’m **Eknath phad**, a passionate Full Stack Developer , and working on real-world problem-solving systems.
 
 
 ### 💻 What I Do
